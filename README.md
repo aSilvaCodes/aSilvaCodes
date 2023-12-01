@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aSilvaCodes
 - 👀 I’m interested in developing new programming skills
-- 🌱 I’m currently learning html and css. I am experienced with Java, C#, C++, C, SQL, and Bash (in order of familiarity)
-- 💞️ I’m looking to collaborate on frontend web development projects (at the moment)
+- 🌱 I am experienced with C#, Java, C++, C, SQL
 - 📫 Email: andrewgsilva99@gmail.com
 
 <!---
