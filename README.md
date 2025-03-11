@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aSilvaCodes
 - 👀 I’m interested in developing new programming skills
-- 🌱 I am experienced with C#, Java, C++, C, SQL
+- 🌱 I am experienced with JavaScript(Node.js, Express.js, EJS), C#, Java, SQL, and more
 - 📫 Email: andrewgsilva99@gmail.com
 
 <!---
